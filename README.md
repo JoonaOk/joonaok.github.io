@@ -1,4 +1,8 @@
-# joonaok.github.io
+# Math and physics student
 
+### Education 
+Current: Bachelor of Science
+University of Turku
 
-asdfdsa
+### Projects
+Currently making small programs that involve physical problems.
