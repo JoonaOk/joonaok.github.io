@@ -2,8 +2,7 @@
 #### Technical Skills: Python, MATLAB
 
 ### Education 
-Current: Bachelor of Science
-University of Turku
+- Bachelor of Science | The University of Turku (September 2022-)
 
 ### Projects
 Currently making small programs that involve physical problems.
