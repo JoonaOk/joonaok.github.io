@@ -1,5 +1,5 @@
 # Math and physics student
-#### technical Skills: Python, MATLAB
+#### Technical Skills: Python, MATLAB
 
 ### Education 
 Current: Bachelor of Science
