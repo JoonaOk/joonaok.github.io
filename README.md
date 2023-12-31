@@ -1,5 +1,5 @@
 # Math and physics student
-#### Technical Skills: Python, MATLAB
+#### Technical Skills: Python, SQL, Excel
 
 ### Education 
 - Bachelor of Science | The University of Turku (September 2022-)
